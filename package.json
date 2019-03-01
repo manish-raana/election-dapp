@@ -1,0 +1,14 @@
+{
+  "name": "election-dapp",
+  "version": "1.0.0",
+  "description": "Election Dapp with user defined parameters with GUI",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish_Rana",
+  "license": "ISC"
+}
